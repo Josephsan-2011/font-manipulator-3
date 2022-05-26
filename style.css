@@ -1,0 +1,30 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin:0px;
+    box-shadow: 5px 3px 9px red;
+}
+.NOTE {
+    font-size: 15px;
+    color: olive;
+}
+.footer {
+position: fixed;
+bottom: 0;
+text-align: center;
+width: 100%;
+color: rgb(176, 236, 236);
+background-color: dodgerblue;line-height: 3;
+font-size: 20px;
+
+}
+canvas {
+    border: red 6px solid;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px blue;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+body {
+    background-size: cover;
+}
